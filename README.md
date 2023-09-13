@@ -10,11 +10,11 @@ Code Fellows Notes
 
 # Course: 102
 **Class 1**
-   - [Growth-mindset](https://andtran10.github.io/reading-notes/Code-102/Growth-mindset)
+   - [Growth mindset](https://andtran10.github.io/reading-notes/Code-102/Growth-mindset)
    - [Markdown](https://andtran10.github.io/reading-notes/Code-102/Markdown)
 
 **Class2**
-   - [The-Coder's-Computer](
+   - [The Coder's Computer](https://andtran10.github.io/reading-notes/Code-102/The-Coder's-Computer)
    -
 <!--- ### What is growth mindset?
 
