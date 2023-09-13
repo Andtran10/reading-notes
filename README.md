@@ -21,5 +21,5 @@ Code Fellows Notes
 
 
 
-![Flork-pizza](https://github.com/Andtran10/reading-notes/assets/142632265/236c8f1d-95ef-4110-b8c6-274612805e8e)
+![Flork-pizza](https://andtran10.github.io/reading-notes/Picture-Media/PizzaFlork)
 
