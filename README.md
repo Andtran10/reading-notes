@@ -1,13 +1,11 @@
+# reading-notes
+Code Fellows Notes
 # Introduction: 
 
 **Name:** Andrew Tran
-
 **About Me:** Federal Way, WA. Graduate from UW. Looking for a career change into tech 💻.
-
 **Github:** [Andtran10](https://github.com/Andtran10)
 
-# reading-notes
-Code Fellows Notes
 # Class and Lab
 ## Class 1
 ### What is growth mindset?
