@@ -13,9 +13,9 @@ Code Fellows Notes
    - [Growth mindset](https://andtran10.github.io/reading-notes/Code-102/Growth-mindset)
    - [Markdown](https://andtran10.github.io/reading-notes/Code-102/Markdown)
 
-**Class2**
+**Class 2**
    - [The Coder's Computer](https://andtran10.github.io/reading-notes/Code-102/The-Coder's-Computer)
-   -
+   
 
 
 
