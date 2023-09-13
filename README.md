@@ -8,8 +8,8 @@ Code Fellows Notes
 
 **Github:** [Andtran10](https://github.com/Andtran10)
 
-# Class and Lab
-## Class 1
+# Course: 102
+- Growth Mindset
 ### What is growth mindset?
 
 **Growth mindset** to me is a combination of **effort**, **challenges**, **consistency**, and **self-reflection**. This mindset of starting then challenging oneself to do a little more each time until you get to your goal. Effort can be the bare minimum or the maximum, but the goal here is making the step to begin/start. Through starting and challenging yourself each and everytime you get into a rhythm of consistency. Of course during this time failure or hiccups will occur and this is where self reflection matters. Self relection is not to say you made an error or that you've become too fixated on one path, but rather allowing yourself to take a step back and look at your journey. The goal of self-reflection can be for criticism, joy, or just a break. 
