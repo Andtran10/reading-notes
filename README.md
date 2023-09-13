@@ -9,7 +9,7 @@ Code Fellows Notes
 **Github:** [Andtran10](https://github.com/Andtran10)
 
 # Course: 102
-1. Class 1
+1. **Class 1**
    - Growth Mindset
    - Markdown
 ### What is growth mindset?
