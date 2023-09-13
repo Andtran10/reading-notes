@@ -27,4 +27,5 @@ Code Fellows Notes
 
 1. Have fun with this whole journey. This is something new and from what I've been hearing the end goal is worth all this work. There are people I want to catch up to and through tech I can. **Enjoy and make the most out of this experience!** :frog: why no show
 --->
-![codeboot](https://github.com/Andtran10/reading-notes/assets/142632265/bfe40006-00ab-452d-a3c9-337f60d0779d)
+![Flork-pizza](https://github.com/Andtran10/reading-notes/assets/142632265/236c8f1d-95ef-4110-b8c6-274612805e8e)
+
