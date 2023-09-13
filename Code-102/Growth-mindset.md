@@ -7,4 +7,4 @@
 
 1. Effort: I know there are time when I don't want to study or work, but even putting in the bare minimum is better than no effort. A small step is still a step at the end of the day. Not putting in any work just prolongs my journey to my goal. I want to finish coding bootcamp to re-start my life and live it. ***Small steps = good / No steps = bad***. 
 
-1. Have fun with this whole journey. This is something new and from what I've been hearing the end goal is worth all this work. There are people I want to catch up to and through tech I can. **Enjoy and make the most out of this experience!** :frog:
+1. Have fun with this whole journey. This is something new and from what I've been hearing the end goal is worth all this work. There are people I want to catch up to and through tech I can. **Enjoy and make the most out of this experience!** 🐸
