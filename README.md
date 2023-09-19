@@ -1,10 +1,11 @@
-# reading-notes
-Code Fellows Notes
-# Introduction: 
+# Andrew Tran reading-notes
 
-**Name:** Andrew Tran 🐸
+# About Me: 
 
-**About Me:** Federal Way, WA. Graduate from UW. Looking for a career change into tech 💻.
+**My name is Andrew Tran 🐸.** 
+I am from Federal Way, WA. Welcome to my coding journey. 
+
+
 
 **Github:** [Andtran10](https://github.com/Andtran10)
 
@@ -12,17 +13,15 @@ Code Fellows Notes
 
 ### Code 102
 
-- [Class 1](Code-102/Class-1.md)
-- [Class 1.5](Code-102/Class-1.5.md)
-- [Class 3](Code-102/class-2.md)  
-- [Class 4](Code-102/Class-3.md)
-- [Class 5](Code-102/class-4.md)
-- [Class 6](Code-102/Class-5.md)
-- [Class 7](Code-102/Class-6.md)
-- [class 8](Code-102/Class-7.md)
-- [Class 9](Code-102/Class-8.md)
-
-![Flork-pizza](https://andtran10.github.io/reading-notes/Picture-Media/FlorkPizza.jpg)
+- [Growth Mindset](Code-102/Class-1.md)
+- [Markdown](Code-102/Class-1.5.md)
+- [The Coder's Computer](Code-102/class-2.md)  
+- [Revisions and the Cloud](Code-102/Class-3.md)
+- [Structure Web pages with HTML](Code-102/class-4.md)
+- [Design web pages with CSS](Code-102/Class-5.md)
+- [Dynamic web pages with Javascript](Code-102/Class-6.md)
+- [Programming with Javascript](Code-102/Class-7.md)
+- [Operations and Loops](Code-102/Class-8.md)
 
 ### Code 201
 
@@ -41,3 +40,4 @@ Code Fellows Notes
 - [Link 13](Code-201/Link-13.md)
 - [Link 14](Code-201/Link-14.md)
 - [Link 15](Code-201/Link-15.md)
+
