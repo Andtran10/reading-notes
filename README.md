@@ -1,13 +1,13 @@
-# Andrew Tran reading-notes
+# Andrew Tran Coding Journey
 
 # About Me: 
 
-**My name is Andrew Tran 🐸.** 
-I am from Federal Way, WA. Welcome to my coding journey. 
+**My name is Andrew Tran 🐸.**
+
+I am from Federal way, WA. I've always been interested and involved with computers/tech, but never pursued it as a career. Hoping through coding I can change that. 
 
 
-
-**Github:** [Andtran10](https://github.com/Andtran10)
+[Github: Andtran10](https://github.com/Andtran10)
 
 # Table of Content:
 
