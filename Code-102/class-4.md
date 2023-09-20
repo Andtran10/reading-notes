@@ -17,27 +17,34 @@ Key principles:
 
 # Questions
 
-1. ## What is HTML and why do we use it?
-      - HTML = Hyper text markup language. A markup language that is used to structure a web page and its content. We use it to create web page.
+#### 1. What is HTML and why do we use it?
 
-1. ## What are the 3 main parts of an HTML element
-    - Opening tag <>
-    - Content <>Content</>
-    - Closing tag </>
+HTML = Hyper text markup language. A markup language that is used to structure a web page and its content. We use it to create web page.
 
-1. ## What is it called when you give an element extra element?
-    - Attributes 
+#### 2. What are the 3 main parts of an HTML element
 
-1. ## What is a semantic element?
-    - An element that clearly describe what it is:
+- Opening tag <>
+- Content <>Content</>
+- Closing tag </>
 
-        ###### Examples:
-            - <article>
+#### 3. What is it called when you give an element extra element?
 
-            - <aside>
+- Attributes
 
-            - <footer>
+#### 4. What is a semantic element?
 
-            - <main>
+- An element that clearly describe what it is:
 
-            - <section>
+``` 
+Examples:
+
+- <article>
+
+- <aside>
+
+- <footer>
+
+- <main>
+
+- <section>
+``````
